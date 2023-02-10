@@ -7,5 +7,4 @@ This repository contains:
 - report.pdf: a report in which all the work done is described;
 - presentation.pptx: a presentation that sums up the project.
 
-When executing the notebook, it's not necessaary to import the data manually: it contains a cell to clone this repository and access the datasets.<br><br>
 The final model is too big to be loaded here. It can be found at the following link https://drive.google.com/file/d/1WHTA4I_yQnXOwP4qAW0e-aS2HruQNOW0/view?usp=share_link and has to be imported manually (e.g. from Google Drive) to replicate the final results without going through the training.
